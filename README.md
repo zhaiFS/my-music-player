@@ -19,6 +19,6 @@ npm run build
 ```
 npm run lint
 ```
-
+测试推送远程库
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
